@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Akanksha Chauhan
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Full Stack Development and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me akankaku1998@gmail.com
 
 <!---
