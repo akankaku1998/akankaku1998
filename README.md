@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
-<h3 align="center">Rn, I'm pursing MCA from KNIT, Sultanpur.</h3>
+<h3 align="center">Rn, I'm pursuing MCA from KNIT, Sultanpur.</h3>
 
 - 🌱 I’m currently learning **Full Stack Development and Python**
 
