@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
-<h3 align="center">Rn, I'm pursuing MCA from KNIT, Sultanpur.</h3>
+<h3 align="center">Working as a Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Full Stack Development and Python**
+- 🌱 I’m currently learning **.Net and .Net Core**
 
 - 💞️ I’m looking to collaborate **with other developers.**
 
 - 📫 How to reach me **akankaku1998@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TSdNmVQujOjJxWWNHXmT4T1tdhy9aa43/view?usp=sharing](https://drive.google.com/file/d/1TSdNmVQujOjJxWWNHXmT4T1tdhy9aa43/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1TSdNmVQujOjJxWWNHXmT4T1tdhy9aa43/view?usp=sharing](https://drive.google.com/file/d/1TSdNmVQujOjJxWWNHXmT4T1tdhy9aa43/view?usp=sharing)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
